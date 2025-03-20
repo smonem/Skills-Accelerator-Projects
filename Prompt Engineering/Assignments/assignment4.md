@@ -1,4 +1,4 @@
-# Assignment X: Advanced Techniques, Ethics, and RLHF in LLMs
+# Assignment: Advanced Techniques, Ethics, and RLHF in LLMs
 
 ### Part 1: Reinforcement Learning with Human Feedback (RLHF)
 
